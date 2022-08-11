@@ -43,7 +43,7 @@ const Contacts = () => {
                         <div className="lg:w-2/3 flex flex-col gap-8">
                             <div>
                                 <Title className="mb-6">Адрес складов</Title>
-                                <Map className="mb-6" id="map" coords={[45.063757, 38.892318]} />
+                                {/* <Map className="mb-6" id="map" coords={[45.063757, 38.892318]} /> */}
                                
                                 <Bubble>350039, г. Краснодар, проезд Мирный, 12/1</Bubble>
                             </div>

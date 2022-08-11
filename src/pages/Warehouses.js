@@ -12,7 +12,7 @@ const Warehouses = () => {
             <BigTitle>Адрес комплекса</BigTitle> 
             <Container>
                 <Wrapper>
-                    <Map className="mb-6" id="map" coords={[45.063757, 38.892318]} />
+                    {/* <Map className="mb-6" id="map" coords={[45.063757, 38.892318]} /> */}
                     <Bubble>350039, г. Краснодар, проезд Мирный, 12/1</Bubble>
                 </Wrapper>
             </Container>
